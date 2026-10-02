@@ -1,0 +1,6 @@
+{
+  "name": "Orbyx",
+  "description": "Aplicativo de tarefas diárias e operações de campo com modo escuro nativo, prioridades por etiquetas, lembretes, sincronização offline com Room, relatórios de produtividade, integração Google Calendar e widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
